@@ -1,0 +1,3 @@
+# ADGUARD Blacklist
+
+@@|*.cnn.com^$important
